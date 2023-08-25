@@ -1,13 +1,13 @@
 //P.1.1. Crie um programa em typescript e defina:
 
 //a) Uma variável que tenha anotação explícita de tipo numérico. 
-let numero = 2;
+let numero: number = 2;
 
 //b) Uma variável que tenha anotação explícita de tipo string
-let string = "texto"
+let string: string = "texto"
 
 //c) Uma variável que não tenha anotação explícita de tipo mas que receba um valor lógico. 
-let boolean = true;
+let boolean: boolean = true;
 
 //d) Uma variável que seja um JSON contendo propriedades de tipo numérico e de tipo string
 

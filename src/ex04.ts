@@ -1,4 +1,4 @@
-// P.1.4. Escreva um programa, em TbpeScript, que solicite que o usuário digite duas letras e diga qual delas vem antes e qual vem depois no alfabeto.
+// P.1.4. Escreva um programa, em TypeScript, que solicite que o usuário digite duas letras e diga qual delas vem antes e qual vem depois no alfabeto.
 
 class Antes {
     a: string;
@@ -20,5 +20,5 @@ class Antes {
     
 }
 
-const teste2 = new Antes("C","A");
+const teste2 = new Antes("C","D");
 teste2.print();
